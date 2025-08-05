@@ -24,7 +24,7 @@ app.get("/", (req, res, next) => {
 
 
 
-
+app.get('/qr-send' )
  
 
 
